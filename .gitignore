@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+test
+train
+validation
+fruit-and-vegetable-image-recognition.zip
